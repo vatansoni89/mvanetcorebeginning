@@ -29,15 +29,13 @@ namespace mywebapp
             }
 
             Console.WriteLine(env.IsDevelopment());
+
             app.UseMvc();
 
             app.Run(async (context) =>
             {
                 await context.Response.WriteAsync("<b>Hello World</b>");
             });
-
-
-
         }
     }
 }

@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Data\\Vatan\\Learnings\\AA Authors\\Vatan\\MVA .NetCore Beginner\\Practise\\Practise.csproj",
+      "projectUniqueName": "d:\\Data\\Vatan\\Learnings\\AA Authors\\Vatan\\MVA .NetCore Beginner\\mvanetcorebeginning\\Practise\\Practise.csproj",
       "projectName": "Practise",
-      "projectPath": "D:\\Data\\Vatan\\Learnings\\AA Authors\\Vatan\\MVA .NetCore Beginner\\Practise\\Practise.csproj",
+      "projectPath": "d:\\Data\\Vatan\\Learnings\\AA Authors\\Vatan\\MVA .NetCore Beginner\\mvanetcorebeginning\\Practise\\Practise.csproj",
       "packagesPath": "C:\\Users\\z003d4ks\\.nuget\\packages\\",
-      "outputPath": "D:\\Data\\Vatan\\Learnings\\AA Authors\\Vatan\\MVA .NetCore Beginner\\Practise\\obj\\",
+      "outputPath": "d:\\Data\\Vatan\\Learnings\\AA Authors\\Vatan\\MVA .NetCore Beginner\\mvanetcorebeginning\\Practise\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

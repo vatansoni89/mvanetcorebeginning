@@ -11799,11 +11799,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Data\\Vatan\\Learnings\\AA Authors\\Vatan\\MVA .NetCore Beginner\\Practise\\mywebapp\\mywebapp.csproj",
+      "projectUniqueName": "d:\\Data\\Vatan\\Learnings\\AA Authors\\Vatan\\MVA .NetCore Beginner\\mvanetcorebeginning\\Practise\\mywebapp\\mywebapp.csproj",
       "projectName": "mywebapp",
-      "projectPath": "D:\\Data\\Vatan\\Learnings\\AA Authors\\Vatan\\MVA .NetCore Beginner\\Practise\\mywebapp\\mywebapp.csproj",
+      "projectPath": "d:\\Data\\Vatan\\Learnings\\AA Authors\\Vatan\\MVA .NetCore Beginner\\mvanetcorebeginning\\Practise\\mywebapp\\mywebapp.csproj",
       "packagesPath": "C:\\Users\\z003d4ks\\.nuget\\packages\\",
-      "outputPath": "D:\\Data\\Vatan\\Learnings\\AA Authors\\Vatan\\MVA .NetCore Beginner\\Practise\\mywebapp\\obj\\",
+      "outputPath": "d:\\Data\\Vatan\\Learnings\\AA Authors\\Vatan\\MVA .NetCore Beginner\\mvanetcorebeginning\\Practise\\mywebapp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
