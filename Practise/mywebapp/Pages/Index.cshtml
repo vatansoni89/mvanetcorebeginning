@@ -1,2 +1,7 @@
 @page
-<h1>Hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii</h1>
+@using Microsoft.Extensions.Configuration
+@inject IConfiguration Con
+
+<h1>Hii from default Index</h1>
+
+<h2> @Con["Message"] </h2>

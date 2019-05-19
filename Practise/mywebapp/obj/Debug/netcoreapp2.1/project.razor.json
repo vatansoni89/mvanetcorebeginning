@@ -2684,6 +2684,11 @@
       "FilePath": "Pages\\Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "Pages\\Solange\\Solance.cshtml",
+      "TargetPath": "Pages\\Solange\\Solance.cshtml",
+      "FileKind": "mvc"
     }
   ]
 }
